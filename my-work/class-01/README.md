@@ -13,7 +13,6 @@
 - Committed and pushed
 
 ## What I learned
-Write a short reflection
+use git and github and AntiGravity IDE
 
 ## Challenges 
-Describe what you learned and fixed
